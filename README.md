@@ -54,3 +54,4 @@ Example
 | Box template | [STL file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_dual-USB_box.stl) | [Step file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_dual-USB_box.step) | <img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/2bat_template_box.PNG" width="25%"> |
 | Box 2USB | [STL file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_template_box.stl) | [Step file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_template_box.step) | <img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/2bat_dual-USB_box.PNG" width="25%"> |
 
+This project is adapted from the [following file](https://www.thingiverse.com/thing:4690364)
