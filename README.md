@@ -43,6 +43,10 @@ Battery slots and Boxes are linked together using 4x M3x25 screw
 
 ### 2 Batteries
 
+Example
+
+<img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/demo2bat.png" width="100%">
+
 | Part | STL | STEP | Preview |
 |:----:|:---:|:----:|:-------:|
 | Template | [File](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_basic_battery-slot.stl) | [File](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/2bat_basic_battery-slot.step) |<img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/2bat_basic_battery-slot.PNG" width="25%"> |
