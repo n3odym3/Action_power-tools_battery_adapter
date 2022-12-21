@@ -41,6 +41,12 @@ Battery slots and Boxes are linked together using 4x M3x25 screw
 | Box template | [STL file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/1bat_dual-USB_box.stl) | [Step file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/1bat_dual-USB_box.step) | <img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/1bat_template_box.PNG" width="25%"> |
 | Box 2USB | [STL file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/1bat_template_box.stl) | [Step file](https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/3D_files/1bat_template_box.step) | <img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/1bat_dual-USB_box.PNG" width="25%"> |
 
+#### Build instructions (1 battery 2 USB)
+
+[USB module](https://aliexpress.com/item/32903126995.html)
+
+<img src="https://github.com/n3odym3/Action_power-tools_battery_adapter/blob/main/img/1bat_2USB_instructions.png" width="100%">
+
 ### 2 Batteries
 
 Example
